@@ -1,8 +1,8 @@
 import requests
 from twilio.rest import Client
-api_key = "26a995b3b194005ecde02bd00d0e58a4"
-account_sid = 'ACf6ca632bf592ef252e3ca5c5993771d3'
-auth_token = "28eef501cfa56e75bc7283dce56aa173"
+api_key = ""
+account_sid = ''
+auth_token = ""
 
 parameters = {
     #Ewiniar
